@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: marine
+  m_Shader: {fileID: 4800000, guid: 1337f0e6e31b5304c8035ccc09514938, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 5d7edc40e3eb0084aad30b1330f80b27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonShade:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Outline: 0.06256717
+    - _Shininess: 0.7
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.95983773, g: 1, b: 0.86764705, a: 1}
+  m_BuildTextureStacks: []
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

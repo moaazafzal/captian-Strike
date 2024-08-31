@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: hit_blood
+  m_Shader: {fileID: 4800000, guid: aecdb9c13510c0b46babba53be6bef6b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9e3ad6f399539854ba37b2276acd636f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Reflect:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texBase:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texLightmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - texBase:
+        m_Texture: {fileID: 2800000, guid: 26bd721d39b9dd744baabc7a6065aebd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - B: 1
+    - G: 1
+    - R: 1
+    - _Alpha: 0.5
+    - _InvFade: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0.47058824}
+    - _TintColor: {r: 1, g: 0, b: 0, a: 0.5019608}
+    - clrBase: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

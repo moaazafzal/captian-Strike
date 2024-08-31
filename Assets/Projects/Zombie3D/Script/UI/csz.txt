@@ -1,0 +1,70 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type>
+<META 
+content="width=320; initial-scale=1.0; minimum-scale=1.0; maximum-scale=1.0; user-scalable=0;" 
+name=viewport>
+<META content=yes name=apple-touch-fullscreen><LINK media=screen 
+href="index_files/axurerppage.css" type=text/css rel=stylesheet>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding:0px;
+}
+P {
+	MARGIN: 10px 0px
+}
+a{ 
+	COLOR: #999;
+	text-decoration:underline;
+	font-size:12px;
+	font-weight:bold;
+}
+A:hover {
+display:inline;
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	BORDER-RIGHT-WIDTH: 0px
+}
+
+-->
+</style></head>
+
+<BODY style=" COLOR: #999999; font-size:11px; background-color:#f5f5f5; FONT-FAMILY: "Helvetica Neue", Sans-Serif; ">
+<table width="297" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3"><img src="https://www.facebook.com/bidostudio1211/" title="Bido Interactive" alt="bido Interactive"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><a href="https://www.facebook.com/bidostudio1211/"><img src="https://www.facebook.com/bidostudio1211/" width="298" height="411" title="Download Captain Strike Zombie" alt="Download Captain Strike Zombie"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="https://www.facebook.com/bidostudio1211/" width="298" height="206" title="Captain Strike Zombie" alt="Captain Strike Zombie"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><a href="https://www.facebook.com/bidostudio1211/"><img src="https://www.facebook.com/bidostudio1211/" width="298" height="85" title="A SMALL TOWN INFECTED… UNDEAD ROAM THE STREETS… LOCK 'N LOAD, BLAST ZOMBIES!" alt="A SMALL TOWN INFECTED… UNDEAD ROAM THE STREETS… LOCK 'N LOAD, BLAST ZOMBIES!"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="https://www.facebook.com/bidostudio1211/" width="298" height="35" title="Captain Strike Zombie" alt="Captain Strike Zombie"></td>
+  </tr>
+  <tr>
+    <td height="50" align="center"><a href="http://twitter.com/codogames"><img src="https://www.facebook.com/bidostudio1211/"></a></td>
+    <td align="center"><a href="https://www.facebook.com/bidostudio1211/"><img src="https://www.facebook.com/bidostudio1211/" width="85" height="28"></a></td>
+    <td align="center"><a href="https://www.facebook.com/bidostudio1211/"><img src="https://www.facebook.com/bidostudio1211/" width="73" height="28"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><a href="https://www.facebook.com/bidostudio1211/">bidogames.net</a> </td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+</table>
+
+</BODY></HTML>

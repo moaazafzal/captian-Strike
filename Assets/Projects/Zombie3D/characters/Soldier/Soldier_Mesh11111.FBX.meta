@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 273616e3191415b4c85059da5e0f9479
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: Soldier_Suit
+  - first:
+      43: 4300002
+    second: Soldier_Cap
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      1: 100046
+    second: //RootNode
+  - first:
+      4: 400046
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Bip01
+  - first:
+      4: 400004
+    second: Bip01
+  - first:
+      1: 100050
+    second: Bip01 Footsteps
+  - first:
+      4: 400050
+    second: Bip01 Footsteps
+  - first:
+      1: 100036
+    second: Bip01 Head
+  - first:
+      4: 400036
+    second: Bip01 Head
+  - first:
+      1: 100056
+    second: Bip01 HeadNub
+  - first:
+      4: 400056
+    second: Bip01 HeadNub
+  - first:
+      1: 100038
+    second: Bip01 L Calf
+  - first:
+      4: 400038
+    second: Bip01 L Calf
+  - first:
+      1: 100034
+    second: Bip01 L Clavicle
+  - first:
+      4: 400034
+    second: Bip01 L Clavicle
+  - first:
+      1: 100042
+    second: Bip01 L Foot
+  - first:
+      4: 400042
+    second: Bip01 L Foot
+  - first:
+      1: 100044
+    second: Bip01 L Forearm
+  - first:
+      4: 400044
+    second: Bip01 L Forearm
+  - first:
+      1: 100028
+    second: Bip01 L Hand
+  - first:
+      4: 400028
+    second: Bip01 L Hand
+  - first:
+      1: 100014
+    second: Bip01 L Thigh
+  - first:
+      4: 400014
+    second: Bip01 L Thigh
+  - first:
+      1: 100052
+    second: Bip01 L Toe0
+  - first:
+      4: 400052
+    second: Bip01 L Toe0
+  - first:
+      1: 100006
+    second: Bip01 L Toe0Nub
+  - first:
+      4: 400006
+    second: Bip01 L Toe0Nub
+  - first:
+      1: 100032
+    second: Bip01 L UpperArm
+  - first:
+      4: 400032
+    second: Bip01 L UpperArm
+  - first:
+      1: 100054
+    second: Bip01 Neck
+  - first:
+      4: 400054
+    second: Bip01 Neck
+  - first:
+      1: 100060
+    second: Bip01 Pelvis
+  - first:
+      4: 400060
+    second: Bip01 Pelvis
+  - first:
+      1: 100024
+    second: Bip01 R Calf
+  - first:
+      4: 400024
+    second: Bip01 R Calf
+  - first:
+      1: 100010
+    second: Bip01 R Clavicle
+  - first:
+      4: 400010
+    second: Bip01 R Clavicle
+  - first:
+      1: 100022
+    second: Bip01 R Foot
+  - first:
+      4: 400022
+    second: Bip01 R Foot
+  - first:
+      1: 100002
+    second: Bip01 R Forearm
+  - first:
+      4: 400002
+    second: Bip01 R Forearm
+  - first:
+      1: 100020
+    second: Bip01 R Hand
+  - first:
+      4: 400020
+    second: Bip01 R Hand
+  - first:
+      1: 100026
+    second: Bip01 R Thigh
+  - first:
+      4: 400026
+    second: Bip01 R Thigh
+  - first:
+      1: 100016
+    second: Bip01 R Toe0
+  - first:
+      4: 400016
+    second: Bip01 R Toe0
+  - first:
+      1: 100018
+    second: Bip01 R Toe0Nub
+  - first:
+      4: 400018
+    second: Bip01 R Toe0Nub
+  - first:
+      1: 100000
+    second: Bip01 R UpperArm
+  - first:
+      4: 400000
+    second: Bip01 R UpperArm
+  - first:
+      1: 100058
+    second: Bip01 Spine
+  - first:
+      4: 400058
+    second: Bip01 Spine
+  - first:
+      1: 100040
+    second: Bip01 Spine1
+  - first:
+      4: 400040
+    second: Bip01 Spine1
+  - first:
+      1: 100012
+    second: Dummy01
+  - first:
+      4: 400012
+    second: Dummy01
+  - first:
+      1: 100048
+    second: Soldier_Cap
+  - first:
+      4: 400048
+    second: Soldier_Cap
+  - first:
+      137: 13700002
+    second: Soldier_Cap
+  - first:
+      1: 100030
+    second: Soldier_Suit
+  - first:
+      4: 400030
+    second: Soldier_Suit
+  - first:
+      137: 13700000
+    second: Soldier_Suit
+  - first:
+      1: 100008
+    second: Weapon_Dummy
+  - first:
+      4: 400008
+    second: Weapon_Dummy
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 8936298d0306a334196f6a863dce1939
+  - 2bbbe580a4239de4881f08d4218ecf87
+  - 1f32a72768af68e43a56ad75eaac0186
+  - a1d31bfe9d26ea241a1a30ff5ec9cf59
+  - 6704c89a7ac3365419eb4d5674515a4e
+  - 4bb48cc42880ba64e89ee737a00c956e
+  - 3a627f44cbeffbe42b54cb0bdcf9eb44
+  - e6a41c4513308854e958ef9e4c809534
+  - 49dffd0e164cd344eb38b413714e45e5
+  - 662855cdfa13fc14c9652411ae339b02
+  - c0be2e2260255714daf6170ca2af96d1
+  - 6dc58611e97267a41abe4f9fc3cffd88
+  - 8e1d820598c3816428aef79c59107eb9
+  - a0a818c6cedfeeb4bac882bf7ca75b3c
+  - 30c89aa01b2354442b76b23404f2ef25
+  - 8a09bcf944aed60478e402f537dfdc29
+  - 432603c64500d624d97d64a2587af7fd
+  - cf98c33c50c4b3741ac179fe0c6f64a4
+  - 59aa8628a12f5a7429d862caef45b951
+  - 8ef57b59a34a8f6468a1c00538370e94
+  - 55157a5f74853714ea26588ec1f18d11
+  - 7068f09ef6866674eb14ad88ddcddaf7
+  - b8a67480779f2704b9a95059c5e246ac
+  - 2a74d7f8d6321a74a9581d2834c6b316
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
