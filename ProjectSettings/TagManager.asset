@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Level
+  - Enemy
+  - Helmet
+  - Path
+  - BombSpot
+  - Parameters
+  - WoodBox
+  - Trigger
+  - Door
+  - Grave
+  - WayPoint
+  - WayPoint_Tank
   layers:
   - Default
   - TransparentFX
@@ -13,23 +25,23 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - EnemyHand
+  - Wall
+  - Projectile
+  - SceneObject
+  - Camera
+  - Floor
+  - TransparentWall
+  - Sky
+  - DeadBody
+  - WoodBox
+  - Item
+  - PlayerWeapon
+  - TankWall
+  - CopBomB
+  - WoodboxAim
   - 
   - 
   - 
